@@ -1,2 +1,2 @@
-# ReactSelectWithSideInfiniteBox
+# ReactSelectWithOrWithMulti
 Created with CodeSandbox
