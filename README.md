@@ -1,0 +1,2 @@
+# ReactSelectWithSideInfiniteBox
+Created with CodeSandbox
